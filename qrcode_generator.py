@@ -1,7 +1,6 @@
 import pyqrcode
 import png
 from pyqrcode import QRCode
-import pygame as pg
 
 
 s=input("type url")
